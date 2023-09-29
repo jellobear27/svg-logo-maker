@@ -25,7 +25,7 @@ const questions = [
   {
     type: "input",
     message: "Please type in a character-set of 3 letters.",
-    name: "text_color",
+    name: "text_input",
   },
   // WHEN I am prompted for the text color
   // THEN I can enter a color keyword (OR a hexadecimal number)
