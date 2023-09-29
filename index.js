@@ -1,7 +1,7 @@
 // Includes packages needed for this application
 const fs = require("fs");
 const inquirer = require("inquirer");
-const generateLogo = require("./generateLogo");
+const generateLogo = require("./utils/generateLogo");
 const { type } = require("os");
 
 const questions = [
