@@ -29,7 +29,7 @@ As a freelance web developer, I want to generate a simple logo for my projects s
 7. Once completed, an SVG file named "logo.svg" will be created.
 
 ##  Walkthrough Video
-[Watch the walkthrough video](https://drive.google.com/file/d/1NS0Ixkh94Gw5XjVO8bZXLmFMVy8M0na2/view?usp=sharing)
+[Watch the walkthrough video](https://drive.google.com/drive/folders/1O_eLczboclULVHsWPIyJxl11jCe_qvCd?usp=sharing)
 
 ## Screenshots
 
